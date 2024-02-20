@@ -1,7 +1,7 @@
 # Awesome Quant
 
 A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
-
+https://trello.com/b/m8QRUAmX/arbitragebot
 [![](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Languages
